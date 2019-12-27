@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=eiqVLC0AAAAJ" target="_blank">Google Scholar profile</a>.
+<!-- You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=eiqVLC0AAAAJ" target="_blank">Google Scholar profile</a>.
 <br />
 
 #### Preprints
@@ -33,5 +33,5 @@ Cyst Segmentation in Abdominal CT Scans", International Conference on Medical Im
 #### Journal papers
 - David Dreizin, **Yuyin Zhou**, Yixiao Zhang, Nikki Tirada, Alan L. Yuille, "Performance of a Deep Learning Algorithm for Automated Segmentation and Quantification of Traumatic Pelvic Hematomas on CT". Journal of Digital Imaging 2019 ([PDF](https://link.springer.com/article/10.1007/s10278-019-00207-1))
 - Yan Wang\*, **Yuyin Zhou\***, Wei Shen, Seyoun Park, Elliot K. Fishman, Alan Yuille, "Abdominal multi-organ segmentation with organ-attention networks and statistical fusion", Medical Image Analysis 2019 ([PDF](https://doi.org/10.1016/j.media.2019.04.005))
-- Jianyu Wang, Zhishual Zhang, Cihang Xie, <b>Yuyin Zhou</b>, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille, "Visual Concepts and Compositional Voting", Annals of Mathematical Sciences and Applications 2018 ([PDF](https://arxiv.org/pdf/1711.04451.pdf))
+- Jianyu Wang, Zhishual Zhang, Cihang Xie, <b>Yuyin Zhou</b>, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille, "Visual Concepts and Compositional Voting", Annals of Mathematical Sciences and Applications 2018 ([PDF](https://arxiv.org/pdf/1711.04451.pdf)) -->
 
